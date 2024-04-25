@@ -1,11 +1,9 @@
 # Quiz 02
 
-Using pose-detection (Tensorflow AI Model) for Pose Detection from Live Camera + Firebase Authentication
+Text Generation + Firebase Authentication
 
-## TensorFlow AI Model
+## Gemini Text Generation AI Model
 
-1. Used pretrained MobileNet model for object detection from images
-2. Go to https://www.npmjs.com/search?q=tensorflow%20models to use Model of your own choice.
 
 ## Firebase Configuration
 
@@ -18,7 +16,8 @@ In **firebase.js** file add your firebase configuration object. The steps to obt
 
 ## Method to run this project
 
-1. Clone directory (git clone https://github.com/MoazamAli45/quiz-02) or download ZIP to extract folder
+
+1. Clone directory (git clone https://github.com/AbdullahSajid35/Mad-Quiz02-Gemini-Text-Generation-App) or download ZIP to extract folder
 2. Use powershell or VS code terminal to goto the project directory
 3. Run command "npm install --force " (It will install the necessary packages of package.json file)
 4. Run command "expo start" OR "npm start"
